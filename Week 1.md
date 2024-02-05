@@ -1,8 +1,10 @@
 ## Learning Activities & Resources
-The first major thing I knew I needed to do was refresh my knowledge on basic html and CSS coding. 
-	I decided to utilize the LinkedIn learning resource and watched a few videos from the 'HTML Essential Training' course. From the sections of the course I watched I refreshed by memory on basic HTML and CSS structure and some of the different tags that can be used, it wasn't enough information for me to code a whole website from scratch but it would allow me to read the necessary  code.
+The first major thing I knew I needed to do was refresh my knowledge on basic html and CSS coding.  
+- I decided to utilize the LinkedIn learning resource and watched a few videos from the 'HTML Essential Training' course. From the sections of the course I watched I refreshed by memory on basic HTML and CSS structure and some of the different tags that can be used, it wasn't enough information for me to code a whole website from scratch but it would allow me to read the necessary  code.
+
 Whilst coding my website I realized there were a couple of HTML tags that I had forgot the format for. 
-	I used the [W3C Schools](https://www.w3schools.com/)website and their provided examples to quickly find the answers I was looking for. I decided on using this site as it has reliable information that is straight to the point.
+- I used the [W3C Schools](https://www.w3schools.com/)website and their provided examples to quickly find the answers I was looking for. I decided on using this site as it has reliable information that is straight to the point.
+
 I also looked back on my prac work from CP1406 (Web Design) to refresh my memory on HTML and CSS I had already learned and see examples of code in use. 
 ## Estimated Hours
 I spent around 2 hours doing study and 5 hours on the website
